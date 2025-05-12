@@ -12,6 +12,6 @@ Welcome to my cybersecurity portfolio! I created this to showcase my hands-on sk
 
 ## 💡 About Me
 
-I'm passionate about cybersecurity and continuous learning. My interests include Linux, SIEM tools, Python, and cloud security.
+Hi, my name is Soe. I'm a stay-at-home dad with a dental degree and a business background, now steering into the cybersecurity field in search of my passion.
 
 Let's connect!
