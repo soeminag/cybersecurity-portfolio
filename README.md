@@ -8,7 +8,7 @@ Welcome to my cybersecurity portfolio! I created this to showcase my hands-on sk
 - **Linux Permissions Project** – Used chmod and chown to secure files
 - **SQL Query Analysis** – Extracted login activity using SQL filters
 - **Incident Handler’s Journal** – Documented a simulated cybersecurity incident
-- **Resume** – [Link to resume](resume.pdf) *(optional if uploaded)*
+- **Resume** –[https://github.com/soeminag/cybersecurity-portfolio/raw/main/SMA%202025%20CV.pdf]
 
 ## 💡 About Me
 
